@@ -10,11 +10,12 @@
 
 ![post_newuser](https://github.com/user-attachments/assets/e6a67ad5-090d-4508-8e0e-b101d85d1cbf)
 
-## Get Posts By User ID ##
+## Retrieve All Posts By User ID ##
 
-![get_users_post_byid](https://github.com/user-attachments/assets/6d2c1d22-1866-4d0c-9d96-d249e0208f82)
+![get_user_posts](https://github.com/user-attachments/assets/6d0c0306-c31d-4532-911e-de053217e9c7)
 
 
-## Get Post Details ##
+
+## Retrieve Post Details ##
 
 ![get_users_post_byid](https://github.com/user-attachments/assets/a5cef786-8a4e-4842-a51b-22cf123159ae)
